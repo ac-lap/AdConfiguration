@@ -1,1 +1,32 @@
-
+{
+    "countrywiseconfiguration": {
+        "United States": {
+            "adproviderconfigurationlist": [
+                {
+                    "adprovidername": "AdDuplex",
+                    "priority": 1,
+                    "adpercentage": 90
+                },
+                {
+                    "adprovidername": "AdsJumbo",
+                    "priority": 2,
+                    "adpercentage": 10
+                }
+            ]
+        }
+    },
+    "defaultconfiguration": {
+        "adproviderconfigurationlist": [
+            {
+                "adprovidername": "AdDuplex",
+                "priority": 2,
+                "adpercentage": 20
+            },
+            {
+                "adprovidername": "AdsJumbo",
+                "priority": 1,
+                "adpercentage": 80
+            }
+        ]
+    }
+}
