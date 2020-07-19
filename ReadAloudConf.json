@@ -1,31 +1,55 @@
 {
+    "cachedurationinhrs": 24,
     "countrywiseconfiguration": {
-        "United States": {
-            "adproviderconfigurationlist": [
+        "united states": {
+            "adunitconfigurationlist": [
                 {
-                    "adprovidername": "AdDuplex",
-                    "priority": 1,
-                    "adpercentage": 90
-                },
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 100
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "india": {
+            "adunitconfigurationlist": [
                 {
-                    "adprovidername": "AdsJumbo",
-                    "priority": 2,
-                    "adpercentage": 10
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 0
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 100
+                        }
+                    ]
                 }
             ]
         }
     },
     "defaultconfiguration": {
-        "adproviderconfigurationlist": [
+        "adunitconfigurationlist": [
             {
-                "adprovidername": "AdDuplex",
-                "priority": 2,
-                "adpercentage": 20
-            },
-            {
-                "adprovidername": "AdsJumbo",
-                "priority": 1,
-                "adpercentage": 80
+                "adunitid": "",
+                "adproviderconfigurationlist": [
+                    {
+                        "adprovidername": "AdDuplex",
+                        "weightage": 10
+                    },
+                    {
+                        "adprovidername": "AdsJumbo",
+                        "weightage": 90
+                    }
+                ]
             }
         ]
     }
