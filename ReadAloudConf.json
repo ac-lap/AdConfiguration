@@ -8,11 +8,11 @@
                     "adproviderconfigurationlist": [
                         {
                             "adprovidername": "AdDuplex",
-                            "weightage": 100
+                            "weightage": 0
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 0
+                            "weightage": 100
                         }
                     ]
                 }
