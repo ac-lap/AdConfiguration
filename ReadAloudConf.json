@@ -8,11 +8,11 @@
                     "adproviderconfigurationlist": [
                         {
                             "adprovidername": "AdDuplex",
-                            "weightage": 0
+                            "weightage": 100
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 100
+                            "weightage": 0
                         }
                     ]
                 }
@@ -25,11 +25,11 @@
                     "adproviderconfigurationlist": [
                         {
                             "adprovidername": "AdDuplex",
-                            "weightage": 0
+                            "weightage": 100
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 100
+                            "weightage": 0
                         }
                     ]
                 }
@@ -43,11 +43,11 @@
                 "adproviderconfigurationlist": [
                     {
                         "adprovidername": "AdDuplex",
-                        "weightage": 0
+                        "weightage": 100
                     },
                     {
                         "adprovidername": "AdsJumbo",
-                        "weightage": 100
+                        "weightage": 0
                     }
                 ]
             }
