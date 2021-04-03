@@ -1,0 +1,56 @@
+{
+    "cachedurationinhrs": 24,
+    "countrywiseconfiguration": {
+        "united states": {
+            "adunitconfigurationlist": [
+                {
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 100
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "india": {
+            "adunitconfigurationlist": [
+                {
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 100
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "defaultconfiguration": {
+        "adunitconfigurationlist": [
+            {
+                "adunitid": "",
+                "adproviderconfigurationlist": [
+                    {
+                        "adprovidername": "AdDuplex",
+                        "weightage": 100
+                    },
+                    {
+                        "adprovidername": "AdsJumbo",
+                        "weightage": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
