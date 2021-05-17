@@ -8,11 +8,11 @@
                     "adproviderconfigurationlist": [
                         {
                             "adprovidername": "AdDuplex",
-                            "weightage": 50
+                            "weightage": 100
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 50
+                            "weightage": 0
                         }
                     ]
                 }
@@ -25,11 +25,79 @@
                     "adproviderconfigurationlist": [
                         {
                             "adprovidername": "AdDuplex",
-                            "weightage": 50
+                            "weightage": 0
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 50
+                            "weightage": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        "germany": {
+            "adunitconfigurationlist": [
+                {
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 100
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "france": {
+            "adunitconfigurationlist": [
+                {
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 100
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "italy": {
+            "adunitconfigurationlist": [
+                {
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 100
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "spain": {
+            "adunitconfigurationlist": [
+                {
+                    "adunitid": "",
+                    "adproviderconfigurationlist": [
+                        {
+                            "adprovidername": "AdDuplex",
+                            "weightage": 100
+                        },
+                        {
+                            "adprovidername": "AdsJumbo",
+                            "weightage": 0
                         }
                     ]
                 }
