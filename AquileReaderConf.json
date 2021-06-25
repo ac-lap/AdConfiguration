@@ -118,6 +118,19 @@
                         "weightage": 50
                     }
                 ]
+            },
+            {
+                "adunitid": "Interstitial",
+                "adproviderconfigurationlist": [
+                    {
+                        "adprovidername": "Vungle",
+                        "weightage": 50
+                    },
+                    {
+                        "adprovidername": "AdDeals",
+                        "weightage": 50
+                    }
+                ]
             }
         ]
     }
