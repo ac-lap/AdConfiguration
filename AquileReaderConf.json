@@ -2,11 +2,9 @@
     "cachedurationinhrs": 24,
     "countrywiseconfiguration": {
         "united states": {
-            "adunitconfigurationlist": [
-                {
+            "adunitconfigurationlist": [{
                     "adunitid": "",
-                    "adproviderconfigurationlist": [
-                        {
+                    "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
                             "weightage": 100
                         },
@@ -14,16 +12,35 @@
                             "adprovidername": "AdsJumbo",
                             "weightage": 0
                         }
+                    ],
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Interstitial",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Reward",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle"
                     ]
                 }
             ]
         },
         "india": {
-            "adunitconfigurationlist": [
-                {
+            "adunitconfigurationlist": [{
                     "adunitid": "",
-                    "adproviderconfigurationlist": [
-                        {
+                    "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
                             "weightage": 0
                         },
@@ -31,16 +48,35 @@
                             "adprovidername": "AdsJumbo",
                             "weightage": 100
                         }
+                    ],
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdsJumbo",
+                        "AdDuplex"
+                    ]
+                },
+                {
+                    "adunitid": "Interstitial",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdsJumbo",
+                        "AdDuplex"
+                    ]
+                },
+                {
+                    "adunitid": "Reward",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle"
                     ]
                 }
             ]
         },
         "germany": {
-            "adunitconfigurationlist": [
-                {
+            "adunitconfigurationlist": [{
                     "adunitid": "",
-                    "adproviderconfigurationlist": [
-                        {
+                    "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
                             "weightage": 0
                         },
@@ -48,16 +84,35 @@
                             "adprovidername": "AdsJumbo",
                             "weightage": 100
                         }
+                    ],
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Interstitial",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Reward",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle"
                     ]
                 }
             ]
         },
         "france": {
-            "adunitconfigurationlist": [
-                {
+            "adunitconfigurationlist": [{
                     "adunitid": "",
-                    "adproviderconfigurationlist": [
-                        {
+                    "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
                             "weightage": 100
                         },
@@ -65,16 +120,35 @@
                             "adprovidername": "AdsJumbo",
                             "weightage": 0
                         }
+                    ],
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Interstitial",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Reward",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle"
                     ]
                 }
             ]
         },
         "italy": {
-            "adunitconfigurationlist": [
-                {
+            "adunitconfigurationlist": [{
                     "adunitid": "",
-                    "adproviderconfigurationlist": [
-                        {
+                    "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
                             "weightage": 100
                         },
@@ -82,16 +156,35 @@
                             "adprovidername": "AdsJumbo",
                             "weightage": 0
                         }
+                    ],
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Interstitial",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Reward",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle"
                     ]
                 }
             ]
         },
         "spain": {
-            "adunitconfigurationlist": [
-                {
+            "adunitconfigurationlist": [{
                     "adunitid": "",
-                    "adproviderconfigurationlist": [
-                        {
+                    "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
                             "weightage": 100
                         },
@@ -99,17 +192,36 @@
                             "adprovidername": "AdsJumbo",
                             "weightage": 0
                         }
+                    ],
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Interstitial",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle",
+                        "AdDuplex",
+                        "AdsJumbo"
+                    ]
+                },
+                {
+                    "adunitid": "Reward",
+                    "adproviderconfigurationlist": null,
+                    "adproviderpreferenceorder": [
+                        "Vungle"
                     ]
                 }
             ]
         }
     },
     "defaultconfiguration": {
-        "adunitconfigurationlist": [
-            {
+        "adunitconfigurationlist": [{
                 "adunitid": "",
-                "adproviderconfigurationlist": [
-                    {
+                "adproviderconfigurationlist": [{
                         "adprovidername": "AdDuplex",
                         "weightage": 50
                     },
@@ -117,19 +229,27 @@
                         "adprovidername": "AdsJumbo",
                         "weightage": 50
                     }
+                ],
+                "adproviderpreferenceorder": [
+                    "Vungle",
+                    "AdsJumbo",
+                    "AdDuplex"
                 ]
             },
             {
                 "adunitid": "Interstitial",
-                "adproviderconfigurationlist": [
-                    {
-                        "adprovidername": "Vungle",
-                        "weightage": 50
-                    },
-                    {
-                        "adprovidername": "AdDeals",
-                        "weightage": 50
-                    }
+                "adproviderconfigurationlist": null,
+                "adproviderpreferenceorder": [
+                    "Vungle",
+                    "AdsJumbo",
+                    "AdDuplex"
+                ]
+            },
+            {
+                "adunitid": "Reward",
+                "adproviderconfigurationlist": null,
+                "adproviderpreferenceorder": [
+                    "Vungle"
                 ]
             }
         ]
