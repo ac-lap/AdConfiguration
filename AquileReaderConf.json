@@ -23,9 +23,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "Vungle",
+                        "AdsJumbo",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "Vungle"
                     ]
                 },
                 {
@@ -59,9 +59,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdsJumbo",
-                        "AdDuplex"
+                        "AdDuplex",
+                        "Vungle"
                     ]
                 },
                 {
@@ -95,9 +95,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
@@ -240,9 +240,9 @@
                 "adunitid": "Interstitial",
                 "adproviderconfigurationlist": null,
                 "adproviderpreferenceorder": [
-                    "Vungle",
                     "AdsJumbo",
-                    "AdDuplex"
+                    "AdDuplex",
+                    "Vungle"
                 ]
             },
             {
