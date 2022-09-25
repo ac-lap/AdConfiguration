@@ -14,17 +14,17 @@
                         }
                     ],
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdsJumbo",
                         "AdDuplex",
+                        "AdsJumbo",
                         "Vungle"
                     ]
                 },
@@ -42,25 +42,25 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 0
+                            "weightage": 100
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 100
+                            "weightage": 0
                         }
                     ],
                     "adproviderpreferenceorder": [
-                        "Vungle",
+                        "AdDuplex",
                         "AdsJumbo",
-                        "AdDuplex"
+                        "Vungle"
                     ]
                 },
                 {
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdsJumbo",
                         "AdDuplex",
+                        "AdsJumbo",
                         "Vungle"
                     ]
                 },
@@ -78,17 +78,17 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 0
+                            "weightage": 100
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 100
+                            "weightage": 0
                         }
                     ],
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
@@ -122,18 +122,18 @@
                         }
                     ],
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
@@ -158,18 +158,18 @@
                         }
                     ],
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
@@ -194,18 +194,18 @@
                         }
                     ],
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "Vungle",
                         "AdDuplex",
-                        "AdsJumbo"
+                        "AdsJumbo",
+                        "Vungle"
                     ]
                 },
                 {
@@ -223,25 +223,25 @@
                 "adunitid": "",
                 "adproviderconfigurationlist": [{
                         "adprovidername": "AdDuplex",
-                        "weightage": 50
+                        "weightage": 100
                     },
                     {
                         "adprovidername": "AdsJumbo",
-                        "weightage": 50
+                        "weightage": 0
                     }
                 ],
                 "adproviderpreferenceorder": [
-                    "Vungle",
+                    "AdDuplex",
                     "AdsJumbo",
-                    "AdDuplex"
+                    "Vungle"
                 ]
             },
             {
                 "adunitid": "Interstitial",
                 "adproviderconfigurationlist": null,
                 "adproviderpreferenceorder": [
-                    "AdsJumbo",
                     "AdDuplex",
+                    "AdsJumbo",
                     "Vungle"
                 ]
             },
