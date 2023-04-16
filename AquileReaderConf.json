@@ -6,11 +6,11 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 100
+                            "weightage": 10
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 0
+                            "weightage": 90
                         }
                     ],
                     "adproviderpreferenceorder": [
@@ -23,9 +23,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdDuplex",
                         "AdsJumbo",
-                        "Vungle"
+                        "Vungle",
+                        "AdDuplex"
                     ]
                 },
                 {
@@ -42,11 +42,11 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 100
+                            "weightage": 0
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 0
+                            "weightage": 100
                         }
                     ],
                     "adproviderpreferenceorder": [
@@ -59,9 +59,10 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdDuplex",
                         "AdsJumbo",
-                        "Vungle"
+                        "Vungle",
+                        "AdDuplex"
+
                     ]
                 },
                 {
@@ -78,11 +79,11 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 100
+                            "weightage": 10
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 0
+                            "weightage": 90
                         }
                     ],
                     "adproviderpreferenceorder": [
@@ -95,9 +96,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdDuplex",
                         "AdsJumbo",
-                        "Vungle"
+                        "Vungle",
+                        "AdDuplex"
                     ]
                 },
                 {
@@ -114,11 +115,11 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 100
+                            "weightage": 10
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 0
+                            "weightage": 90
                         }
                     ],
                     "adproviderpreferenceorder": [
@@ -131,9 +132,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdDuplex",
                         "AdsJumbo",
-                        "Vungle"
+                        "Vungle",
+                        "AdDuplex"
                     ]
                 },
                 {
@@ -150,11 +151,11 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 100
+                            "weightage": 10
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 0
+                            "weightage": 90
                         }
                     ],
                     "adproviderpreferenceorder": [
@@ -167,9 +168,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdDuplex",
                         "AdsJumbo",
-                        "Vungle"
+                        "Vungle",
+                        "AdDuplex"
                     ]
                 },
                 {
@@ -186,11 +187,11 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 100
+                            "weightage": 10
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 0
+                            "weightage": 90
                         }
                     ],
                     "adproviderpreferenceorder": [
@@ -203,9 +204,9 @@
                     "adunitid": "Interstitial",
                     "adproviderconfigurationlist": null,
                     "adproviderpreferenceorder": [
-                        "AdDuplex",
                         "AdsJumbo",
-                        "Vungle"
+                        "Vungle",
+                        "AdDuplex"
                     ]
                 },
                 {
@@ -223,11 +224,11 @@
                 "adunitid": "",
                 "adproviderconfigurationlist": [{
                         "adprovidername": "AdDuplex",
-                        "weightage": 100
+                        "weightage": 0
                     },
                     {
                         "adprovidername": "AdsJumbo",
-                        "weightage": 0
+                        "weightage": 100
                     }
                 ],
                 "adproviderpreferenceorder": [
@@ -240,9 +241,9 @@
                 "adunitid": "Interstitial",
                 "adproviderconfigurationlist": null,
                 "adproviderpreferenceorder": [
-                    "AdDuplex",
                     "AdsJumbo",
-                    "Vungle"
+                    "Vungle",
+                    "AdDuplex"
                 ]
             },
             {
