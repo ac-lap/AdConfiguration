@@ -6,11 +6,11 @@
                     "adunitid": "",
                     "adproviderconfigurationlist": [{
                             "adprovidername": "AdDuplex",
-                            "weightage": 10
+                            "weightage": 0
                         },
                         {
                             "adprovidername": "AdsJumbo",
-                            "weightage": 90
+                            "weightage": 100
                         }
                     ],
                     "adproviderpreferenceorder": [
